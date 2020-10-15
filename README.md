@@ -2,6 +2,7 @@
 - React-icons
 - React-router-dom
 - Leaflet / react-leaflet (usar mapas na aplicação)
+- axios
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
