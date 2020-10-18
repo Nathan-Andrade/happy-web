@@ -41,7 +41,7 @@ export default function Orphanage() {
 
   if(!orphanage){
     return <p>Carregando...</p>
-  } else {
+  } 
 
     return (
       <div id="page-orphanage">
@@ -130,5 +130,5 @@ export default function Orphanage() {
         </main>
       </div>
     );
-  }
+  
 }
