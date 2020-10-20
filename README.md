@@ -1,50 +1,74 @@
-## Bibliotecas / Linguagens
-- React-icons
-- React-router-dom
-- Leaflet / react-leaflet (usar mapas na aplicação)
-- axios
+<div align="center">
+    <img src="https://github.com/Nathan-Andrade/happy-web/blob/master/src/images/logo-icon.png?raw=true" />  <img src="https://raw.githubusercontent.com/rocketseat-education/nlw-03-omnistack/b213546a933add51d25db81650d8a62c654ea0f1/.github/logo.svg" width="200px"/> 
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
 
-## Available Scripts
+<h2 align="center">
+    NextLevelWeek #03 :rocket:
+</h2>
 
-In the project directory, you can run:
+  ![](https://img.shields.io/github/languages/count/Nathan-Andrade/happy-web?color=%23ffd666) ![](https://img.shields.io/github/languages/top/Nathan-Andrade/happy-web?color=%23ffd666) ![](https://img.shields.io/github/repo-size/Nathan-Andrade/happy-web?color=%23ffd666) ![](https://img.shields.io/github/last-commit/Nathan-Andrade/happy-web?color=%23ffd666)
 
-### `yarn start`
+<p align="center">
+  
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## :computer: Projeto
 
-### `yarn test`
+ Happy é uma aplicação que permite conectar pessoas e casas de acolhimento de uma forma remota e segura, onde poderam levar alegria para as crianças da melhor forma.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ <p align="center">
+  <img src="https://github.com/Nathan-Andrade/happy-web/blob/master/github/landing-page.PNG?raw=true" >
+  
+  <img src="https://github.com/Nathan-Andrade/happy-web/blob/master/github/orphanagesMap.PNG?raw=true" >
+</p>
 
-### `yarn build`
+ ## :airplane: Tecnologias e Bibliotecas
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<details>
+  <summary>Web</summary>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   [React](https://pt-br.reactjs.org/)
+-   [Typescript](https://www.typescriptlang.org/)
+-   [Leaflet](https://leafletjs.com/download.html)
+-   [React Leaflet](https://react-leaflet.js.org/docs/en/installation
+-   [Context API](https://reactjs.org/docs/context.html)
+-   [React-router-dom](https://reactrouter.com/web/guides/quick-start)
+-   [Axios](https://www.npmjs.com/package/axios)
+-   [React Icons](https://react-icons.netlify.com/#/)
+-   [Prettier](https://prettier.io/)
+-   [VS Code](https://code.visualstudio.com/)
 
-### `yarn eject`
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :information_source: Como rodar a aplicação
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Requerimentos
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Para rodar esta aplicação você vai precisar ter instalado:
+* [Git](https://git-scm.com)
+* [Node](https://nodejs.org/)
+* [Yarn](https://yarnpkg.com/) 
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Web
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Entre na pasta do projeto
+$ cd web
+
+# Instale todas as dependências
+$ yarn install
+
+# Para rodar a aplicação
+$ yarn start
+```
+
+---
+
+Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/nathan-a-1b9436124/">Nathan de Andrade</a>.
